@@ -1,0 +1,34 @@
+{
+    "name": "shenlink/design-pattern",
+    "description": "PHP implementation of design patterns.",
+    "authors": [
+        {
+            "name": "shenlink",
+            "email": "2024133718@qq.com"
+        }
+    ],
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": "^7.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Shenlink\\DesignPattern\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "test": [
+            "php shenlink test"
+        ]
+    },
+    "minimum-stability": "stable"
+}
