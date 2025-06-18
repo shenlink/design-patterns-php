@@ -39,10 +39,17 @@
 
 1. 克隆项目到本地：
 
+- gitee
 ```bash
-git clone https://gitee.com/shenlink/design-pattern-php.git
-cd design-pattern-php
+git clone https://gitee.com/shenlink/design-patterns-php.git
+cd design-patterns-php
 ```
+
+- github
+```bash
+git clone https://github.com/shenlink/design-patterns-php.git
+cd design-patterns-php
+```  
 
 2. 安装依赖：
 
