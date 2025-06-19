@@ -8,7 +8,7 @@ use Shenlink\DesignPattern\FactoryMethod\Basic\ProductA;
 use Shenlink\DesignPattern\FactoryMethod\Basic\ProductAFactory;
 use Shenlink\DesignPattern\FactoryMethod\Basic\ProductB;
 use Shenlink\DesignPattern\FactoryMethod\Basic\ProductBFactory;
-use PHPUnit\Framework\TestCase;;
+use PHPUnit\Framework\TestCase;
 
 // 产品工厂测试类
 class ProductFactoryTest extends TestCase

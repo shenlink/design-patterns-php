@@ -9,7 +9,7 @@ use Shenlink\DesignPattern\FactoryMethod\Solution\DatabaseLoggerFactory;
 use Shenlink\DesignPattern\FactoryMethod\Solution\FileLogger;
 use Shenlink\DesignPattern\FactoryMethod\Solution\FileLoggerFactory;
 use Tests\Support\OutputCapture;
-use PHPUnit\Framework\TestCase;;
+use PHPUnit\Framework\TestCase;
 
 // 日志工厂测试类
 class LoggerFactoryTest extends TestCase
